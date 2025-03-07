@@ -12,7 +12,7 @@ Additionally, the notebook includes:
 
 
 ## Folder Structure
-Loan_Application_Analysis/
+Ridge_Regression_with_Regularization/
       
    ├── MLProject2-RidgeRegression.ipynb  # Jupyter Notebook implementing Ridge Regression
    
