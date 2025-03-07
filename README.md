@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## Usage
 1. Open the Jupyter Notebook:
 ```sh
-   jupyter notebook Loan_application_analysis.ipynb
+   jupyter notebook MLProject2-RidgeRegression.ipynb
 ```
 
 2. Execute the cells step by step to:
